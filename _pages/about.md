@@ -26,4 +26,4 @@ Jiaotong University, Chengdu, China, in 2017.
 
 federated learning, edge computing, vehicular networks. 
 
-*Multiple PhD and Postdoc openings are available in HKU. Please drop me emails if you are intereted.*
+*Multiple PhD and Postdoc openings are available at HKU. Please drop me emails if you are intereted.*
