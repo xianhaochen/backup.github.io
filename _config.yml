@@ -3,10 +3,10 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Jindong
+first_name: Xianhao
 middle_name: 
-last_name: Wang
-email: jindong.wang@microsoft.com
+last_name: Chen
+email: xianhaochen@ufl.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -49,7 +49,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: jindongwang # your GitHub user name
+github_username: xianhaochen # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 linkedin_username: # your LinkedIn user name
@@ -78,8 +78,8 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-# blog_name: Jindong Wang  # your blog must have a name for it to show up in the nav bar
-# blog_description: Jindong Wang's personal website
+# blog_name: Xianhao Chen  # your blog must have a name for it to show up in the nav bar
+# blog_description: Xianhao Chen's personal website
 # permalink: /blog/:year/:title/
 
 # Pagination
@@ -182,8 +182,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Wang
-  first_name: Jindong
+  last_name: Chen 
+  first_name: Xianhao
 
   style: apa
   locale: en
