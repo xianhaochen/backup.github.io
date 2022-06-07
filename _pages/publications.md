@@ -7,7 +7,7 @@ years: [2022, 2021, 2020, 2019, 2018, 2017, 2016]
 nav: true
 ---
 
-#### Books
+#### Book Chapters
 
 <div class="publications">
 
@@ -28,7 +28,7 @@ nav: true
 </div>
 </details>
 
-#### Publications
+#### Selected Journal Papers
 
 <div class="publications">
 
