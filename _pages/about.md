@@ -25,4 +25,5 @@ Jiaotong University, Chengdu, China, in 2017.
 5G/6G is no longer just for information delivery, but rather becoming a concerted platform for integrated communications and computing. I am interested in exploring the following key problems in 5G/6G.
 
 federated learning, edge computing, vehicular networks. 
-*Multiple PhD and Postdoc openings in HKU EEE are available. Please drop me emails if you are intereted.*
+
+*Multiple PhD and Postdoc openings are available in HKU. Please drop me emails if you are intereted.*
