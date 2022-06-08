@@ -28,7 +28,7 @@ nav: true
 </div>
 </details> -->
 
-#### Selected Journal Papers
+#### Selected Journal Papers ([Full List of Publications](https://scholar.google.com/citations?user=TnjiGooAAAAJ&hl=en))
 
 <div class="publications">
 
