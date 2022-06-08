@@ -21,6 +21,8 @@ jindongwang [at] outlook.com, jindong.wang [at] microsoft.com<br>
 
 I will be joining [the Department of Electrical and Electronic Engineering, the University of Hong Kong](https://www.eee.hku.hk/), as an assistant professor. I obtained my Ph.D. degree in electrical and computer engineering from the University of Florida in 2022, advised by [Prof. Yuguang Fang](http://www.fang.ece.ufl.edu/). I received my B.Eng. degree from Southwest Jiaotong University, Chengdu, China, in 2017.
 
+**I have multiple openings for fully funded PhD students and Postdocs at HKU.  If you are intereted in working with me, please drop me an email including your CV, transcript, and sample publications (if any).**
+
 5G/6G is no longer just for information delivery, but rather becoming an integrated communications and computing platform intended to intelligentize everything in our world. I am interested in exploring various research problems in 5G/6G, particularly the joint design of communications and computing, including
 
 - Wireless networking for computing/machine learning
@@ -36,7 +38,5 @@ I will be joining [the Department of Electrical and Electronic Engineering, the 
 - Incentive design for wireless networks
   - Auction design
   - Game theory
-
-<span style="background-color: #FFFF00"> I have multiple openings for fully funded PhD students and Postdocs at HKU.  If you are intereted in working with me, please drop me an email including your CV, transcript, and sample publications (if any). <span>
 
 
