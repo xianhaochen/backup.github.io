@@ -24,9 +24,9 @@ jindongwang [at] outlook.com, jindong.wang [at] microsoft.com<br>
 
 I will be joining [the Department of Electrical and Electronic Engineering, the University of Hong Kong](https://www.eee.hku.hk/), as a tenure-track assistant professor. I obtained my Ph.D. degree in electrical and computer engineering from the University of Florida in 2022, advised by [Prof. Yuguang Fang](http://www.fang.ece.ufl.edu/). I received my B.Eng. degree from Southwest Jiaotong University, Chengdu, China, in 2017.
 
-#### Highlights ####
 
-**<span style="background-color: #FFFF00"> </span> I have multiple openings for fully funded PhD students and Postdocs at HKU.  If you are intereted in working with me, please drop me an email including your CV, transcript, and sample publications (if any).</span>**
+**I have multiple openings for fully funded PhD students and Postdocs at HKU.  If you are intereted in working with me, please drop me an email including your CV, transcript, and sample publications (if any).**
+
 
 #### Research Interests ####
 
