@@ -28,7 +28,7 @@ I will be joining [the Department of Electrical and Electronic Engineering, the 
 
 #### Research Interests ####
 
-The artificial intelligence (AI) revolution opens vast opportunities for wireless networking researchers. 5G/6G is no longer just for information delivery, but rather envisioned to be an integrated communication and computing platform to “intelligentize” our world. Based on this observation, we will explore various research problems in 5G/6G, particularly the joint design of networking and computing/AI. My research interests include
+The artificial intelligence (AI) revolution opens vast opportunities for wireless networking researchers. 5G/6G is no longer just for information delivery, but rather envisioned to be an integrated communication and computing platform to “intelligentize” our world. In response to this observation, we will explore various research problems in 5G/6G, particularly the joint design of networking and computing/AI. My research interests include
 
 - Wireless networking for computing/machine learning
   - Edge computing
