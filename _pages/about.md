@@ -26,7 +26,7 @@ I will be joining [the Department of Electrical and Electronic Engineering, the 
 
 **I have multiple openings for fully funded PhD students and Postdocs at HKU.  If you are intereted in working with me, please drop me an email including your CV, transcript, and sample publications (if any).**
 
-### Research Interests ###
+#### Research Interests ####
 
 5G/6G is no longer just for information delivery, but rather becoming an integrated communications and computing platform intended to intelligentize everything in our world. I am interested in exploring various research problems in 5G/6G, particularly the joint design of communications and computing, including
 
