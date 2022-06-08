@@ -14,9 +14,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Assistant Professor, The University of Hong Kong
+Assistant Professor, The University of Hong Kong<br>
 Email: xchen [at] eee.hku.hk,
-[Google scholar](https://scholar.google.com/citations?user=hBZ_tKsAAAAJ)
 
 <!-- Assistant Professor, The University of Hong Kong<br>
 Building 2, No. 5 Danling Street, Haidian District, Beijing, China<br>
@@ -26,6 +25,8 @@ jindongwang [at] outlook.com, jindong.wang [at] microsoft.com<br>
 I will be joining [the Department of Electrical and Electronic Engineering, the University of Hong Kong](https://www.eee.hku.hk/), as a tenure-track assistant professor. I obtained my Ph.D. degree in electrical and computer engineering from the University of Florida in 2022, advised by [Prof. Yuguang Fang](http://www.fang.ece.ufl.edu/). I received my B.Eng. degree from Southwest Jiaotong University, Chengdu, China, in 2017.
 
 **I have multiple openings for fully funded PhD students and Postdocs at HKU.  If you are intereted in working with me, please drop me an email including your CV, transcript, and sample publications (if any).**
+
+### Research Interests ###
 
 5G/6G is no longer just for information delivery, but rather becoming an integrated communications and computing platform intended to intelligentize everything in our world. I am interested in exploring various research problems in 5G/6G, particularly the joint design of communications and computing, including
 
