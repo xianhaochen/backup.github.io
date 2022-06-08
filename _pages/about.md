@@ -6,7 +6,7 @@ description:
 
 <!-- profile:
   align: right
-  image: me2.png
+  image: xchen_gator1.jpg
   address:  -->
 
 news: false  # includes a list of news items
