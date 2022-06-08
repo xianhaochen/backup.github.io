@@ -4,10 +4,10 @@ title: About
 permalink: /
 description: 
 
-  profile:
+profile:
   align: right
   image: xchen_gator1.jpg
-<!--   address: -->
+  address:
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
