@@ -37,6 +37,6 @@ I will be joining [the Department of Electrical and Electronic Engineering, the 
   - Auction design
   - Game theory
 
-<span style="background-color: #FFFF00"> Multiple PhD and Postdoc openings are available at HKU. Please drop me emails if you are intereted.<span>
+<span style="background-color: #FFFF00"> I have several openings for fully funded PhD students and Postdocs at HKU.  If you are intereted in working with me, please drop me an email including your CV, transcript, and sample publications (if any). <span>
 
 
