@@ -17,7 +17,7 @@ nav: true
 
 </div>
 
-<details>
+<!-- <details>
 <summary>Preprints</summary>
 <div class="publications">
 
@@ -26,7 +26,7 @@ nav: true
 {% endfor %}
 
 </div>
-</details>
+</details> -->
 
 #### Selected Journal Papers
 
