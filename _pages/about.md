@@ -26,7 +26,7 @@ I will be joining [the Department of Electrical and Electronic Engineering, the 
 
 #### Highlights ####
 
-**<span style="background-color: #FFFF00"> </span> I have multiple openings for fully funded PhD students and Postdocs at HKU.  If you are intereted in working with me, please drop me an email including your CV, transcript, and sample publications (if any). </span>**
+**<span style="background-color: #FFFF00"> </span> I have multiple openings for fully funded PhD students and Postdocs at HKU.  If you are intereted in working with me, please drop me an email including your CV, transcript, and sample publications (if any).</span>**
 
 #### Research Interests ####
 
