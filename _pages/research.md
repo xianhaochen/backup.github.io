@@ -5,7 +5,7 @@ title: Research
 nav: true
 ---
 
-### Representative works
+### Recent works
 
 #### End-to-end service auction for edge computing ([ToN'22](https://ieeexplore.ieee.org/document/9790890/authors#authors), [WCM'22](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9773059)）
 
