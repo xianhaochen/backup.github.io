@@ -24,7 +24,7 @@ jindongwang [at] outlook.com, jindong.wang [at] microsoft.com<br>
 
 I am an assistant professor at [the Department of Electrical and Electronic Engineering, the University of Hong Kong](https://www.eee.hku.hk/). I obtained my Ph.D. degree in electrical and computer engineering from the University of Florida in 2022, advised by [Prof. Yuguang Fang](http://www.fang.ece.ufl.edu/), and my B.Eng. degree from Southwest Jiaotong University, Chengdu, China, in 2017. I received 2022 ECE graduate excellence award for research from the University of Florida. I have published papers in top-tier venues, including ToN, TMC, and TWC, and served as reviewer for leading IEEE journals, including PIEEE, TCOM, and TWC. 
 
-**We have openings for PhD students and Postdocs at [HKU EEE](https://www.eee.hku.hk/) for spring/fall 2023.  If you are interested in working with me, please feel free to drop me an email including your CV, transcript, and sample publications (if any). Usually, potential candidates will be contacted in one week. Due to the volume of email inquiries, I may not be able to reply to every applicant. I apologize and thanks for your understanding.**
+**We have openings for PhD students and Postdocs at [HKU EEE](https://www.eee.hku.hk/) for spring/fall 2023.  If you are interested in working with me, please feel free to drop me an email including your CV, transcript, and sample publications (if any). Usually, shortlisted candidates will be contacted in one week.**
 
 #### Research Interests ####
 
