@@ -28,7 +28,7 @@ I am an assistant professor at [the Department of Electrical and Electronic Engi
 
 #### Research Interests ####
 
-The artificial intelligence (AI) revolution opens vast opportunities for wireless networking researchers. 5G/6G is expected to be no longer just for information delivery, but rather serves as an integrated communication and computing platform to “intelligentize” our world. In response to this observation, we will explore various research problems in 5G/6G, particularly the joint design of communications and computing/AI based on the end-to-end design principle. My research interests include
+The artificial intelligence (AI) revolution opens vast opportunities for wireless networking researchers. 5G/6G is expected to be no longer just for information delivery, but rather serve as an integrated communication and computing platform to “intelligentize” our world. In response to this observation, we will explore various research problems in 5G/6G, particularly the joint design of communications and computing/AI based on the end-to-end design principle. My research interests include
 
 - Wireless networking for computing/machine learning
   - Edge computing
