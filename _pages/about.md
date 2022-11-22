@@ -6,7 +6,7 @@ description:
 
 profile:
   align: right
-  image: xchen_gator1.jpg
+  image: Xianhao_Photo_Crop.jpg
   address:
 
 news: false  # includes a list of news items
