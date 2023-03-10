@@ -1,11 +1,11 @@
 ---
 layout: page
-title: WILL Lab at HKU
+title: <strong>WILL Lab at HKU</strong>
 permalink: /people/
 nav: true
 ---
 
-The <strong>W</strong>ireless <strong>I</strong>nformation & Inte<strong>ll</strong>igence (WILL) lab at the University of Hong Kong focuses on AI-centric next-generation networking, covering the topics on 5G/6G systems, edge computing, and distributed machine learning. Our overarching goal is to leverage in-network communications and computing resources to connect and intelligentize ``everything''!
+The <strong>W</strong>ireless <strong>I</strong>nformation & Inte<strong>ll</strong>igence (WILL) lab focuses on AI-centric next-generation networking, covering the topics on 5G/6G systems, edge computing, and distributed machine learning. Our overarching goal is to leverage in-network communications and computing resources to connect and intelligentize ``everything''!
 
 #### PhD students:
 
