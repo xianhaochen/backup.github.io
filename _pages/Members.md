@@ -5,27 +5,9 @@ permalink: /people/
 nav: true
 ---
 
----
-layout: member
-category: student
-title: Guanqiao Qu
-image: researcher.png
-role: PhD Student
-social:
-    twitter: https://twitter.com/
-    linkedin: https://www.linkedin.com/
-    google-scholar: https://scholar.google.fr/
-    github: https://github.com/
-    website:
-    orcid: https://orcid.org/
-    research-gate: https://www.researchgate.net/
-education:
- - Education
----
+The Wireless Networking & Intelligence (WILL) lab at The University of Hong Kong focuses on AI-centric next-generation networking, covering the topics on 5G/6G systems, edge computing, and distributed machine learning over networks. The overarching goal is to leverage in-network communications and computing resources to intelligentize ``everything''!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+#### Current PhD students:
 
-<!-- #### Current PhD students:
-
-- 2022.11 -- present, Guanqiao Qu (Email: guanqiaoqu@163.com) -->
+- 2022.11 -- present, Guanqiao Qu (Email: guanqiaoqu@163.com)
 
