@@ -9,7 +9,9 @@ The <strong>W</strong>ireless <strong>I</strong>nformation & Inte<strong>ll</str
 
 #### Lab members
 
-- 2022.11 -- present, Guanqiao Qu (Email: guanqiaoqu@163.com, <a href=https://guanqiaoqu.com/>webpage</a> )
+- 2022.11 -- present, Guanqiao Qu (Email: guanqiaoqu@163.com, [webpage](https://guanqiaoqu.com/))
   - PhD student
   - Research interest: edge intelligence, federated learning
+
+
 
