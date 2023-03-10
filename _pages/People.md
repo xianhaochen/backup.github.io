@@ -1,6 +1,6 @@
 ---
 layout: page
-title: People
+title: WILL Lab at HKU
 permalink: /people/
 nav: true
 ---
