@@ -5,7 +5,7 @@ permalink: /students/
 nav: true
 ---
 
-#### Interns at MSRA
+#### Current PhD students:
 
 Current PhD students:
 
