@@ -7,7 +7,5 @@ nav: true
 
 #### Current PhD students:
 
-Current PhD students:
-
 - 2022.11 -- present, Guanqiao Qu (Email: guanqiaoqu@163.com)
 
