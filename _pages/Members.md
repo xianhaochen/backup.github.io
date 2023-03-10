@@ -8,10 +8,9 @@ nav: true
 ---
 layout: member
 category: student
-title: Researcher Name
+title: Guanqiao Qu
 image: researcher.png
 role: PhD Student
-permalink: 'team/researcher-name'
 social:
     twitter: https://twitter.com/
     linkedin: https://www.linkedin.com/
