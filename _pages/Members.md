@@ -5,7 +5,7 @@ permalink: /people/
 nav: true
 ---
 
-The \underline{W}ireless Networking & Intelligence (WILL) lab at The University of Hong Kong focuses on AI-centric next-generation networking, covering the topics on 5G/6G systems, edge computing, and distributed machine learning. The overarching goal is to leverage in-network communications and computing resources to connect and intelligentize ``everything''!
+The <strong>W</strong>ireless Networking & Intelligence (WILL) lab at The University of Hong Kong focuses on AI-centric next-generation networking, covering the topics on 5G/6G systems, edge computing, and distributed machine learning. The overarching goal is to leverage in-network communications and computing resources to connect and intelligentize ``everything''!
 
 #### Current PhD students:
 
