@@ -2,7 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Wireless Information & Intelligence (WILL) Lab @ HKU# the website title (if blank, full name will be used instead)
+title: Wireless Information & Intelligence (WILL) Lab @ HKU
+# the website title (if blank, full name will be used instead)
 first_name: Xianhao
 middle_name: 
 last_name: Chen
