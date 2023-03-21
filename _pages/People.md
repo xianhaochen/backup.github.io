@@ -15,6 +15,6 @@ The <strong>W</strong>ireless <strong>I</strong>nformation & Inte<strong>ll</str
 
 - Starting from 8/2023, Zheng Lin (Email: zhenglin0425a@163.com)
   - PhD student
-  - Research interest: split machine learning
+  - Research interest: edge intelligence, split/distributed machine learning
 
 
