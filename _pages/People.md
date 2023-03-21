@@ -9,9 +9,12 @@ The <strong>W</strong>ireless <strong>I</strong>nformation & Inte<strong>ll</str
 
 #### Lab members
 
-- 2022.11 -- present, Guanqiao Qu (Email: guanqiaoqu@163.com, [webpage](https://guanqiaoqu.com/))
+- 11/2022 -- present, Guanqiao Qu (Email: guanqiaoqu@163.com, [webpage](https://guanqiaoqu.com/))
   - PhD student
   - Research interest: edge intelligence, federated learning
 
+- Starting from 8/2023, Zheng Lin (Email: zhenglin0425a@163.com)
+  - PhD student
+  - Research interest: split machine learning
 
 
