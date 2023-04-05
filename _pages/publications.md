@@ -29,10 +29,19 @@ nav: true
 </details> -->
 
 #### Selected Papers ([Full List of Publications](https://scholar.google.com/citations?user=TnjiGooAAAAJ&hl=en))
-<div class="publications">
+<!-- <div class="publications">
 
 {% for y in page.years %}
   <h2 class="year">{{y}}</h2>
+  {% bibliography -f pubs -q @*[year={{y}}]* %}
+{% endfor %}
+
+</div> -->
+
+<div class="publications">
+
+{% for y in page.years %}
+  <div>{{y}}</div>
   {% bibliography -f pubs -q @*[year={{y}}]* %}
 {% endfor %}
 
