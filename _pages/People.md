@@ -11,17 +11,19 @@ The <strong>W</strong>ireless <strong>I</strong>nformation & Inte<strong>ll</str
 
 <img src = "../assets/img/Guanqiao_Qu.png" align = "left" width = "120" height="160">
 
-- 11/2022 -- present, Guanqiao Qu (Email: gqqu@eee.hku.hk, [webpage](https://guanqiaoqu.com/))
-  - PhD student
+- Guanqiao Qu (Email: gqqu@eee.hku.hk, [webpage](https://guanqiaoqu.com/))
+  - PhD student, 11/2022 -- 
   - Research interest: edge intelligence, federated learning
+  - M.S./B.S. Harbin Institute of Technology
  
  <br><br><br><br>
  
-
 <img src = "../assets/img/Zheng_Lin.png" align = "left" width = "120" height="160">
 
-- Starting from 8/2023, Zheng Lin (Email: zhenglin0425a@163.com)
-  - PhD student
+- Zheng Lin (Email: zhenglin0425a@163.com)
+  - PhD student, 8/2023 -- 
   - Research interest: edge intelligence, split/distributed machine learning
+  - M.S. Fudan University
+  - B.S. Fuzhou University
 
 
