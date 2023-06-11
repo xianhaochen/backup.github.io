@@ -16,6 +16,7 @@ social: false  # includes social icons at the bottom of the page
 
 <img src = "../assets/img/Xianhao_Chen_Photo.png" align = "right" width = "200" height="250">
 
+#### Xianhao Chen ####
 Assistant Professor, The University of Hong Kong<br>
 Email: xchen [at] eee.hku.hk
 
