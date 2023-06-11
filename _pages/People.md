@@ -16,7 +16,7 @@ The <strong>W</strong>ireless <strong>I</strong>nformation & Inte<strong>ll</str
   - Research interest: edge intelligence, federated learning
   - M.S./B.S. Harbin Institute of Technology
  
- <br><br><br><br>
+ <br><br><br>
  
 <img src = "../assets/img/Zheng_Lin.png" align = "left" width = "120" height="160">
 
