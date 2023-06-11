@@ -9,7 +9,7 @@ The <strong>W</strong>ireless <strong>I</strong>nformation & Inte<strong>ll</str
 
 #### Lab members
 
-<img src = "../assets/img/Guanqiao_Qu.png" align = "left" width = "120" height="160">
+<img src = "../assets/img/Guanqiao_Qu_Photo.jpg" align = "left" width = "120" height="160">
 
 - Guanqiao Qu (Email: gqqu@eee.hku.hk, [webpage](https://guanqiaoqu.com/))
   - PhD student, 11/2022 -- 
