@@ -4,10 +4,10 @@ title: About
 permalink: /
 description: 
 
-profile:
+<!-- profile:
   align: right
   image: Xianhao_Chen_Photo.png
-  address:
+  address: -->
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
