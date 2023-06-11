@@ -14,6 +14,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
+<img src = "../assets/img/Xianhao_Chen_Photo.png" align = "right" width = "200" height="250">
+
 Assistant Professor, The University of Hong Kong<br>
 Email: xchen [at] eee.hku.hk
 
