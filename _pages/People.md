@@ -9,7 +9,7 @@ The <strong>W</strong>ireless <strong>I</strong>nformation & Inte<strong>ll</str
 
 #### Lab members
 
-<img src = "../assets/img/Guanqiao_Qu.JPG" align = "left" width = "120" height="160">
+<img src = "../assets/img/Guanqiao_Qu.JPG" align = "left" width = "120" height="160" style="margin-right: 20px;">
 
 - Guanqiao Qu (Email: gqqu@eee.hku.hk, [webpage](https://guanqiaoqu.com/))
   - PhD student, 11/2022 -- 
@@ -18,7 +18,7 @@ The <strong>W</strong>ireless <strong>I</strong>nformation & Inte<strong>ll</str
  
  <br><br><br>
  
-<img src = "../assets/img/Zheng_Lin.png" align = "left" width = "120" height="160">
+<img src = "../assets/img/Zheng_Lin.png" align = "left" width = "120" height="160" style="margin-right: 20px;">
 
 - Zheng Lin (Email: zhenglin0425a@163.com)
   - PhD student, 8/2023 -- 
