@@ -43,6 +43,6 @@ I am an assistant professor at [the Department of Electrical and Electronic Engi
 
 #### Awards ####
 - 2023 IEEE ICCC Best Paper Award
-- 2022 ECE graduate excellence award in research, the University of Florida
+- 2022 ECE Graduate Excellence Award in Research, the University of Florida
 
 
