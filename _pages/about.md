@@ -25,7 +25,7 @@ I am an assistant professor at [the Department of Electrical and Electronic Engi
 <!--**If you are interested in working with me as a Ph.D. student/research assistant, please feel free to drop me an email including your CV, transcript, and sample publications (if any).** Due to the volume of email inquiries, I may only be able to contact shortlisted candidates (usually within one week). Thanks for your understanding. -->
 
 #### Research Interests ####
-5G/6G is expected to be no longer just for information delivery, but rather serve as an integrated communication and computing platform to “intelligentize” our world. In response to this observation, we will explore various research problems in 5G/6G, particularly the joint design of communications and computing/AI based on the end-to-end design principle.
+5G/6G is expected to be no longer just for information delivery, but rather serve as an integrated communication and computing platform to “intelligentize” our world. In response to this observation, we will explore various research problems in 5G/6G mobile networks, particularly the joint design of communications and computing/AI based on the end-to-end design principle.
 
 - Wireless networking for computing/machine learning (edge intelligence)
   - Edge computing
