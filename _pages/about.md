@@ -27,9 +27,9 @@ I am an assistant professor at [the Department of Electrical and Electronic Engi
 #### Research Interests ####
 5G/6G is expected to be no longer just for information delivery, but rather serve as an integrated communication and computing platform to “intelligentize” our world. In response to this observation, we will explore various research problems in 5G/6G mobile networks, particularly the joint design of communications and computing/AI based on the end-to-end design principle.
 
-- Wireless networking for computing/machine learning (edge intelligence)
+- Wireless networking for computing/machine learning
   - Edge computing
-  - Edge learning (e.g., federated learning and split learning) and inference
+  - Edge intelligence (e.g., edge federated/split learning)
 
 - Machine learning for wireless networking
   - Reinforcement learning for network optimization
