@@ -42,6 +42,7 @@ I am an assistant professor at [the Department of Electrical and Electronic Engi
   - Game theory
 
 #### Awards ####
-- 2022 ECE graduate excellence award, the University of Florida
 - 2023 IEEE ICCC Best Paper Award
+- 2022 ECE graduate excellence award, the University of Florida
+
 
