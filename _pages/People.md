@@ -16,7 +16,7 @@ The <strong>W</strong>ireless <strong>I</strong>nformation & Inte<strong>ll</str
   - Research interest: edge intelligence, federated learning
   - M.S./B.S. Harbin Institute of Technology
  
- <br><br><br>
+ <br><br><br><br>
  
 <img src = "../assets/img/Zheng_Lin.png" align = "left" width = "120" height="160" style="margin-right: 20px;">
 
@@ -26,4 +26,13 @@ The <strong>W</strong>ireless <strong>I</strong>nformation & Inte<strong>ll</str
   - M.S. Fudan University
   - B.S. Fuzhou University
 
+ <br><br><br><br>
+ 
+<img src = "../assets/img/Wei_wei_photo.png" align = "left" width = "120" height="160" style="margin-right: 20px;">
+
+- Zheng Lin (Email: zhenglin0425a@163.com)
+  - PhD student, 8/2023 -- 
+  - Research interest: edge intelligence, split/distributed machine learning
+  - M.S. Fudan University
+  - B.S. Fuzhou University
 
