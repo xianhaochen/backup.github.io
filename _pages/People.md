@@ -32,7 +32,7 @@ The <strong>W</strong>ireless <strong>I</strong>nformation & Inte<strong>ll</str
 
 - Wei Wei (Email: weiwei2020214906@gmail.com)
   - PhD student, 10/2023 -- 
-  - Research interest: edge intelligence, split/distributed machine learning
+  - Research interest: edge intelligence, distributed learning
   - M.S. Tsinghua University  
   - B.S. Shandong University
 
