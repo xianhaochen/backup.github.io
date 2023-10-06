@@ -13,7 +13,7 @@ The <strong>W</strong>ireless <strong>I</strong>nformation & Inte<strong>ll</str
 
 - Guanqiao Qu (Email: gqqu@eee.hku.hk, [webpage](https://guanqiaoqu.com/))
   - PhD student, 11/2022 -- 
-  - Research interest: edge intelligence, federated learning
+  - Research interest: wireless networks, edge intelligence, federated learning
   - M.S./B.S. Harbin Institute of Technology
  
  <br><br><br><br>
@@ -22,7 +22,7 @@ The <strong>W</strong>ireless <strong>I</strong>nformation & Inte<strong>ll</str
 
 - Zheng Lin (Email: zhenglin0425a@163.com)
   - PhD student, 8/2023 -- 
-  - Research interest: edge intelligence, split/distributed machine learning
+  - Research interest: wireless networks, edge intelligence, split/distributed machine learning
   - M.S. Fudan University
   - B.S. Fuzhou University
 
@@ -32,7 +32,7 @@ The <strong>W</strong>ireless <strong>I</strong>nformation & Inte<strong>ll</str
 
 - Wei Wei (Email: weiwei2020214906@gmail.com)
   - PhD student, 10/2023 -- 
-  - Research interest: edge intelligence, distributed learning
+  - Research interest: wireless networks, edge intelligence, distributed learning
   - M.S. Tsinghua University  
   - B.S. Shandong University
 
