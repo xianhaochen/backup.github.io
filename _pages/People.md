@@ -30,9 +30,9 @@ The <strong>W</strong>ireless <strong>I</strong>nformation & Inte<strong>ll</str
  
 <img src = "../assets/img/Wei_wei_photo.png" align = "left" width = "120" height="160" style="margin-right: 20px;">
 
-- Zheng Lin (Email: zhenglin0425a@163.com)
-  - PhD student, 8/2023 -- 
+- Zheng Lin (Email: weiwei2020214906@gmail.com)
+  - PhD student, 10/2023 -- 
   - Research interest: edge intelligence, split/distributed machine learning
-  - M.S. Fudan University
-  - B.S. Fuzhou University
+  - M.S. Tsinghua University  
+  - B.S. Shandong University
 
