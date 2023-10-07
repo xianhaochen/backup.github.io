@@ -18,7 +18,7 @@ The <strong>W</strong>ireless <strong>I</strong>nformation & Inte<strong>ll</str
  
  <br><br><br><br>
  
-<img src = "../assets/img/Zheng_Lin.png" align = "left" width = "120" height="160" style="margin-right: 20px;">
+<img src = "../assets/img/Zheng_Lin_photo.jpg" align = "left" width = "120" height="160" style="margin-right: 20px;">
 
 - Zheng Lin (Email: zhenglin0425a@163.com)
   - PhD student, 8/2023 -- 
