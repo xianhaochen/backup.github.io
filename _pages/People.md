@@ -20,7 +20,7 @@ The <strong>W</strong>ireless <strong>I</strong>nformation & Inte<strong>ll</str
  
 <img src = "../assets/img/Zheng_Lin_photo.jpg" align = "left" width = "120" height="160" style="margin-right: 20px;">
 
-- Zheng Lin (Email: zhenglin0425a@163.com)
+- Zheng Lin (Email: zhenglin0425a@163.com, [webpage](https://zhenglin0425.github.io/))
   - PhD student, 8/2023 -- 
   - Research interest: wireless networks, edge intelligence, split/distributed machine learning
   - M.S. Fudan University
