@@ -20,7 +20,7 @@ social: false  # includes social icons at the bottom of the page
 Assistant Professor, The University of Hong Kong<br>
 Email: xchen [at] eee.hku.hk
 
-I am an assistant professor at [the Department of Electrical and Electronic Engineering, the University of Hong Kong](https://www.eee.hku.hk/), leading the <strong>W</strong>ireless <strong>I</strong>nformation & Inte<strong>ll</strong>igence (<strong>WILL</strong>) lab. I obtained my Ph.D. degree in electrical and computer engineering from the University of Florida in 2022, advised by [Prof. Yuguang Fang](http://www.fang.ece.ufl.edu/), and my B.Eng. degree from Southwest Jiaotong University, Chengdu, China, in 2017. My research interests include wireless networks, edge computing, distributed learning, and network science.
+I am an assistant professor at [the Department of Electrical and Electronic Engineering, the University of Hong Kong](https://www.eee.hku.hk/), leading the <strong>W</strong>ireless <strong>I</strong>nformation & Inte<strong>ll</strong>igence (<strong>WILL</strong>) lab. I obtained my Ph.D. degree in electrical and computer engineering from the University of Florida in 2022, advised by [Prof. Yuguang Fang](http://www.fang.ece.ufl.edu/), and my B.Eng. degree from Southwest Jiaotong University, Chengdu, China, in 2017. My research interests include wireless networks, edge computing, distributed learning, and network security.
 
 <!--**If you are interested in working with me as a Ph.D. student/research assistant, please feel free to drop me an email including your CV, transcript, and sample publications (if any).** Due to the volume of email inquiries, I may only be able to contact shortlisted candidates (usually within one week). Thanks for your understanding. -->
 
