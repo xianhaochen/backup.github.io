@@ -5,9 +5,27 @@ permalink: /people/
 nav: true
 ---
 
-The <strong>W</strong>ireless <strong>I</strong>nformation & Inte<strong>ll</strong>igence (WILL) lab focuses on AI-centric next-generation networking, covering the topics on 5G/6G systems, edge computing, and distributed machine learning. Our overarching goal is to leverage in-network communications and computing resources to connect and intelligentize "everything"!
+The <strong>W</strong>ireless <strong>I</strong>nformation & Inte<strong>ll</strong>igence (WILL) lab focuses on AI-native next-generation wireless networks, covering the topics on 5G/6G systems, edge computing, distributed machine learning, and network security. Our long-term vision is to design next-generation wireless networks to support ubiquitous intelligence with superior performance.
 
-#### Lab members
+<!--
+#### Researchers ####
+<img src = "../assets/img/Guanqiao_Qu.JPG" align = "left" width = "120" height="160" style="margin-right: 20px;">
+
+- Qian Chen (Email: qcheneee@hku.hk [webpage](https://qianchen.site/))
+  - Postdoctoral researcher, 10/2023 -- 
+  - Research interest: space-air-ground integrated networks, edge intelligence
+  - Ph.D. Harbin Institute of Technology
+    
+ <br><br><br><br>
+<img src = "../assets/img/Guanqiao_Qu.JPG" align = "left" width = "120" height="160" style="margin-right: 20px;">
+ - Cong Wu (Email: cong.wu@ntu.edu.sg [webpage](https://www.cong-wu.com/))
+  - Postdoctoral researcher, will join us soon 
+  - Research interest: Security and privacy for distributed learning
+  - Previously research fellow at NTU,
+  - Ph.D. Wuhan University
+
+ <br><br><br><br> -->
+#### Students ####
 
 <img src = "../assets/img/Guanqiao_Qu.JPG" align = "left" width = "120" height="160" style="margin-right: 20px;">
 
