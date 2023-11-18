@@ -25,21 +25,18 @@ I am an assistant professor at [the Department of Electrical and Electronic Engi
 <!--**If you are interested in working with me as a Ph.D. student/research assistant, please feel free to drop me an email including your CV, transcript, and sample publications (if any).** Due to the volume of email inquiries, I may only be able to contact shortlisted candidates (usually within one week). Thanks for your understanding. -->
 
 #### Research Interests ####
-5G/6G is expected to be no longer just for information delivery, but rather serve as an integrated communication and computing platform to “intelligentize” our world. In response to this observation, we will explore various research problems in 5G/6G mobile networks, particularly the joint design of communications and computing/AI based on the end-to-end design principle.
+Machine learning (ML) and computing are the enablers for all of today's intelligent applications. However, with the collection of massive data, the exponential increase in AI model sizes, and the pervasiveness of smart applications, ML and computing cannot continue to strive if there are no effective communication networks to support them with high efficiency, ultra-low latency, and good data privacy. For this reason, 5G/6G is expected to be no longer just for information delivery, but rather serve as an integrated communication and computing platform to “intelligentize” everything. In response to this observation, we will explore various research problems in next-generation mobile networks, particularly the co-design of wireless communications and computing/AI.
 
-- Wireless networking for computing/machine learning
-  - Edge computing
-  - Edge intelligence (e.g., edge federated/split learning)
+- Wireless communications/networking for computing/machine learning
+  - Mobile edge computing
+  - Edge intelligence (e.g., edge federated/split learning and edge inference)
+  - Cooperative perception in connected and autonomous vehicles
 
-- Machine learning for wireless networking
+- Machine learning for wireless communications/networking
   - Reinforcement learning for network optimization
  
-- Vehicular networking
-  - Connected and autonomous vehicles (CAVs)
-
-- Incentive design for wireless networks
-  - Auction design
-  - Game theory
+- Security and privacy in distributed learning
+  - Attack/defense techniques in federated/split learning
 
 #### Awards ####
 - 2023 IEEE ICCC Best Paper Award
