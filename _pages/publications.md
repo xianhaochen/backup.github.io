@@ -8,7 +8,7 @@ nav: true
 ---
 
 #### Book Chapters
-
+<!-- 
 <div class="publications">
 
 {% for y in page.years %}
@@ -17,7 +17,7 @@ nav: true
 
 </div>
 
-<!-- <details>
+<details>
 <summary>Preprints</summary>
 <div class="publications">
 
