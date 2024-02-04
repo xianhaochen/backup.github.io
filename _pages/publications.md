@@ -7,38 +7,7 @@ years: [2023, 2022, 2021, 2020, 2019, 2018]
 nav: true
 ---
 
-#### Book Chapters
-<!-- 
-<div class="publications">
-
-{% for y in page.years %}
-  {% bibliography -f books -q @*[year={{y}}]* %}
-{% endfor %}
-
-</div>
-
-<details>
-<summary>Preprints</summary>
-<div class="publications">
-
-{% for y in page.years %}
-  {% bibliography -f preprint -q @*[year={{y}}]* %}
-{% endfor %}
-
-</div>
-</details> -->
-
-
 #### Selected Papers ([Full List of Publications](https://scholar.google.com/citations?user=TnjiGooAAAAJ&hl=en))
-<!-- <div class="publications">
-
-{% for y in page.years %}
-  <h2 class="year">{{y}}</h2>
-  {% bibliography -f pubs -q @*[year={{y}}]* %}
-{% endfor %}
-
-</div> -->
-
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
   "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
